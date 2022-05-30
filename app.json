@@ -1,0 +1,8 @@
+{
+  "name": "FAIR-notebooks",
+  "description": "Run the FAIR climate model with Jupyter and Docker",
+  "repository": "https://github.com/possibleplanets/FAIR-notebooks",
+  "logo": "http://possibleplanets.com/assets/globe.png",
+  "keywords": ["docker", "climate", "jupyter", "FAIR"],
+  "stack": "container"
+}
